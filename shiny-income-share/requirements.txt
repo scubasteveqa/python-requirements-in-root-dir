@@ -1,0 +1,7 @@
+#anywidget
+shiny
+shinywidgets
+#vega
+altair
+pandas
+#six
