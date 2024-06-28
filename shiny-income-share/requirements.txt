@@ -1,4 +1,4 @@
-#anywidget
+anywidget
 shiny
 shinywidgets
 #vega
